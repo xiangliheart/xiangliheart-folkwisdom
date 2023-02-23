@@ -1,2 +1,1 @@
-# wisdom-of-eastern
-wisdom of eastern
+民间智慧 folk wisdom
